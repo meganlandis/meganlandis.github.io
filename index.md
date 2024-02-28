@@ -1,5 +1,5 @@
 ---
-title: "Catherine Knox: Engineering Portfolio"
+title: "Megan Landis: Engineering Portfolio"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Catherine Knox is a mechanical engineering student with a passion for creating and contributing to innovative projects. She is primarily interested in aerospace and nuclear engineering. On this website, you can find a list of Catherine's engineering projects, research inititives, and related involvements."
+excerpt: "Megan Landis is a mechanical engineering student with a passion for creating and contributing to innovative projects. She is primarily interested in project management and product design. On this website, you can find a list ofMegan's engineering projects, research inititives, and related involvements."
 feature_row:
   - image_path: assets/img/EcoswellSolarPanel-1.png
     alt: "placeholder image 1"
