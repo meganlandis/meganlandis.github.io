@@ -6,11 +6,11 @@ title: "About Catherine Knox"
 
 ## Education
 
-Catherine Knox is a mechanical engineering student interested in aeropsace and nuclear technology. She holds experience in additive manufacturing, machining, and project management. 
+Megan Landis is a mechanical engineering student interested in project management and product design.
 
 * Vanderbilt University 
   * Pursuing a BE in Mechanical Engineering
-  * Expected Graduation: 2026
+  * Expected Graduation: 2027
 
 ## Technical Skills
 
